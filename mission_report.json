@@ -1,0 +1,10 @@
+{
+  "project": "Project 38 - Drone Delivery Fleet Mission Planner",
+  "nodes": 4,
+  "drones": 2,
+  "parcels": 3,
+  "comparison": {
+    "greedy_fractional_value": 180.00,
+    "dp_01_value": 150.00
+  }
+}
